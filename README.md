@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Samadhiya</h1>
 <h3 align="center">Aspiring AI/ML Engineer from India 🇮🇳</h3>
-
 <img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ## 🚀 About Me
@@ -67,14 +66,6 @@
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-2006-opensource&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan-2006-opensource&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
