@@ -42,4 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-2006-opensource&layout=compact&theme=tokyonight" />
 </p>
 ---
-✨ Keep Learning • Keep Building • Keep Growing 🚀</h3>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nayan-2006-opensource/Nayan-2006-opensource/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+---
+<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing 🚀</h3>
