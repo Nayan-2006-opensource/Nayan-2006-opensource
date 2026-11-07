@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="Loan default analysis: default rate by CIBIL score, by collateral, and average late payments">
+<style>
+.b{transform-box:fill-box;transform-origin:0 50%;transform:scaleX(0);animation:grow 1s ease-out forwards}
+@keyframes grow{to{transform:scaleX(1)}}
+.l{font-family:SFMono-Regular,Consolas,Menlo,monospace;font-size:14px;fill:#C9D1D9}
+.v{font-family:SFMono-Regular,Consolas,Menlo,monospace;font-size:14px;font-weight:700}
+.h{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;fill:#8B949E;letter-spacing:1.5px}
+</style>
+<rect x="0.5" y="0.5" width="899" height="419" rx="16" fill="#0D1117" stroke="#30363D"/>
+<text x="40" y="46" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#F0F6FC">What drives loan defaults?</text>
+<text x="40" y="68" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">25,000 applications · 22 variables · 24,493 valid rows after cleaning</text>
+
+<text class="h" x="40" y="108">DEFAULT RATE BY CREDIT SCORE</text>
+<text class="l" x="200" y="136" text-anchor="end">CIBIL &lt; 500</text>
+<rect class="b" x="216" y="120" width="420" height="22" rx="4" fill="#F85149"/>
+<text class="v" x="650" y="137" fill="#F85149">42.6%</text>
+<text class="l" x="200" y="170" text-anchor="end">CIBIL &gt; 770</text>
+<rect class="b" x="216" y="154" width="3" height="22" rx="1" fill="#3FB950" style="animation-delay:.2s"/>
+<text class="v" x="232" y="171" fill="#3FB950">0.0%</text>
+
+<text class="h" x="40" y="222">DEFAULT RATE BY COLLATERAL</text>
+<text class="l" x="200" y="250" text-anchor="end">No collateral</text>
+<rect class="b" x="216" y="234" width="67.3" height="22" rx="4" fill="#D29922" style="animation-delay:.3s"/>
+<text class="v" x="297" y="251" fill="#D29922">6.83%</text>
+<text class="l" x="200" y="284" text-anchor="end">With collateral</text>
+<rect class="b" x="216" y="268" width="35.4" height="22" rx="4" fill="#3FB950" style="animation-delay:.5s"/>
+<text class="v" x="265" y="285" fill="#3FB950">3.59%</text>
+
+<text class="h" x="40" y="336">AVG LATE PAYMENTS (OWN SCALE)</text>
+<text class="l" x="200" y="364" text-anchor="end">Defaulters</text>
+<rect class="b" x="216" y="348" width="420" height="22" rx="4" fill="#58A6FF" style="animation-delay:.7s"/>
+<text class="v" x="650" y="365" fill="#58A6FF">2.64</text>
+<text class="l" x="200" y="398" text-anchor="end">Non-defaulters</text>
+<rect class="b" x="216" y="382" width="218" height="22" rx="4" fill="#6E7681" style="animation-delay:.9s"/>
+<text class="v" x="448" y="399" fill="#8B949E">1.37</text>
+
+<text x="860" y="136" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#6E7681">Credit score is the</text>
+<text x="860" y="152" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#6E7681">strongest signal found</text>
+</svg>
