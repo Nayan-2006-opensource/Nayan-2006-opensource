@@ -113,8 +113,8 @@ I like questions with a real answer in the data. In my [Loan Default Risk Analys
 ## 📊 GitHub Activity
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Nayan-2006-opensource&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-2006-opensource&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+ <img src="https://img.shields.io/github/followers/Nayan-2006-opensource?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117" />
+ <img src="https://img.shields.io/github/last-commit/Nayan-2006-opensource/loan-default-risk-analysis?style=for-the-badge&color=3FB950&labelColor=0D1117" />
 </p>
 
 <div align="center">
