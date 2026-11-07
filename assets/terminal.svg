@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-label="Terminal card: building a loan default prediction model, learning scikit-learn, aiming for a data science internship">
+<style>
+.ln{opacity:0;animation:show .01s forwards}
+@keyframes show{to{opacity:1}}
+.cur{animation:blink 1s steps(2,start) infinite}
+@keyframes blink{to{visibility:hidden}}
+text{font-family:SFMono-Regular,Consolas,Menlo,monospace;font-size:17px}
+</style>
+<rect x="0.5" y="0.5" width="899" height="309" rx="14" fill="#0D1117" stroke="#30363D"/>
+<path d="M0.5 14.5a14 14 0 0 1 14-14h871a14 14 0 0 1 14 14V46H0.5z" fill="#161B22"/>
+<line x1="0.5" y1="46" x2="899.5" y2="46" stroke="#30363D"/>
+<circle cx="28" cy="24" r="7" fill="#F85149"/>
+<circle cx="52" cy="24" r="7" fill="#D29922"/>
+<circle cx="76" cy="24" r="7" fill="#3FB950"/>
+<text x="450" y="29" text-anchor="middle" fill="#8B949E" font-size="13">nayan@manit: ~</text>
+
+<g class="ln" style="animation-delay:.4s"><text x="40" y="92" fill="#3FB950">$</text><text x="64" y="92" fill="#F0F6FC">whoami</text></g>
+<g class="ln" style="animation-delay:1s"><text x="40" y="120" fill="#C9D1D9">nayan_samadhiya · EE undergrad @ MANIT Bhopal</text></g>
+
+<g class="ln" style="animation-delay:1.8s"><text x="40" y="162" fill="#3FB950">$</text><text x="64" y="162" fill="#F0F6FC">cat now.txt</text></g>
+<g class="ln" style="animation-delay:2.3s"><text x="40" y="192" fill="#58A6FF">building</text><text x="150" y="192" fill="#6E7681">→</text><text x="180" y="192" fill="#C9D1D9">loan default prediction model</text></g>
+<g class="ln" style="animation-delay:2.7s"><text x="40" y="218" fill="#58A6FF">learning</text><text x="150" y="218" fill="#6E7681">→</text><text x="180" y="218" fill="#C9D1D9">scikit-learn · model evaluation</text></g>
+<g class="ln" style="animation-delay:3.1s"><text x="40" y="244" fill="#58A6FF">goal</text><text x="150" y="244" fill="#6E7681">→</text><text x="180" y="244" fill="#C9D1D9">data science / AI-ML internship</text></g>
+
+<g class="ln" style="animation-delay:3.7s"><text x="40" y="286" fill="#3FB950">$</text><text class="cur" x="64" y="286" fill="#F0F6FC">_</text></g>
+</svg>
