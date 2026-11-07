@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-label="Key numbers: 25,000 loan records analysed, 42.6% default rate below CIBIL 500, 4 projects, 3 certifications">
+<style>
+.c{opacity:0;animation:up .6s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<g class="c" style="animation-delay:.0s">
+<rect x="0.5" y="0.5" width="206" height="129" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="18" y="0" width="44" height="4" rx="2" fill="#58A6FF"/>
+<text x="20" y="64" font-size="40" font-weight="800" fill="#58A6FF">25,000</text>
+<text x="20" y="92" font-size="14" fill="#C9D1D9">loan records analysed</text>
+<text x="20" y="112" font-size="12" fill="#6E7681">Python · Pandas · Seaborn</text>
+</g>
+<g class="c" style="animation-delay:.15s">
+<rect x="231.5" y="0.5" width="206" height="129" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="249" y="0" width="44" height="4" rx="2" fill="#F85149"/>
+<text x="251" y="64" font-size="40" font-weight="800" fill="#F85149">42.6%</text>
+<text x="251" y="92" font-size="14" fill="#C9D1D9">default rate · CIBIL &lt; 500</text>
+<text x="251" y="112" font-size="12" fill="#6E7681">vs 0% above 770</text>
+</g>
+<g class="c" style="animation-delay:.3s">
+<rect x="462.5" y="0.5" width="206" height="129" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="480" y="0" width="44" height="4" rx="2" fill="#3FB950"/>
+<text x="482" y="64" font-size="40" font-weight="800" fill="#3FB950">4</text>
+<text x="482" y="92" font-size="14" fill="#C9D1D9">projects built</text>
+<text x="482" y="112" font-size="12" fill="#6E7681">EDA · NumPy · OOP</text>
+</g>
+<g class="c" style="animation-delay:.45s">
+<rect x="693.5" y="0.5" width="206" height="129" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="711" y="0" width="44" height="4" rx="2" fill="#BC8CFF"/>
+<text x="713" y="64" font-size="40" font-weight="800" fill="#BC8CFF">3</text>
+<text x="713" y="92" font-size="14" fill="#C9D1D9">certifications</text>
+<text x="713" y="112" font-size="12" fill="#6E7681">SQL ×2 · Deloitte simulation</text>
+</g>
+</g>
+</svg>
