@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Learning roadmap: Python, NumPy and Pandas, SQL and EDA done; ML fundamentals in progress; loan default model next; deep learning planned">
+<style>
+.pulse{animation:pulse 1.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{50%{transform:scale(1.5);opacity:.5}}
+.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;text-anchor:middle}
+</style>
+<rect x="0.5" y="0.5" width="899" height="169" rx="16" fill="#0D1117" stroke="#30363D"/>
+<text x="40" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#F0F6FC">Learning roadmap</text>
+
+<line x1="75" y1="88" x2="825" y2="88" stroke="#30363D" stroke-width="3" stroke-dasharray="2 7" stroke-linecap="round"/>
+<line x1="75" y1="88" x2="375" y2="88" stroke="#3FB950" stroke-width="3"/>
+<line x1="375" y1="88" x2="525" y2="88" stroke="#58A6FF" stroke-width="3"/>
+
+<g fill="#3FB950">
+<circle cx="75" cy="88" r="13"/><circle cx="225" cy="88" r="13"/><circle cx="375" cy="88" r="13"/>
+</g>
+<g fill="none" stroke="#0D1117" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M69 88l4 4 8-8"/><path d="M219 88l4 4 8-8"/><path d="M369 88l4 4 8-8"/>
+</g>
+<circle cx="525" cy="88" r="13" fill="#0D1117" stroke="#58A6FF" stroke-width="3"/>
+<circle class="pulse" cx="525" cy="88" r="5" fill="#58A6FF"/>
+<circle cx="675" cy="88" r="13" fill="#0D1117" stroke="#BC8CFF" stroke-width="3" stroke-dasharray="4 3"/>
+<circle cx="825" cy="88" r="13" fill="#0D1117" stroke="#6E7681" stroke-width="3" stroke-dasharray="4 3"/>
+
+<g class="t" font-size="14" font-weight="700" fill="#F0F6FC">
+<text x="75" y="126">Python &amp; OOP</text>
+<text x="225" y="126">NumPy &amp; Pandas</text>
+<text x="375" y="126">SQL &amp; EDA</text>
+<text x="525" y="126">ML Fundamentals</text>
+<text x="675" y="126">Loan Default Model</text>
+<text x="825" y="126">Deep Learning</text>
+</g>
+<g class="t" font-size="11" font-weight="700" letter-spacing="1.2">
+<text x="75" y="147" fill="#3FB950">DONE</text>
+<text x="225" y="147" fill="#3FB950">DONE</text>
+<text x="375" y="147" fill="#3FB950">DONE</text>
+<text x="525" y="147" fill="#58A6FF">IN PROGRESS</text>
+<text x="675" y="147" fill="#BC8CFF">NEXT</text>
+<text x="825" y="147" fill="#6E7681">PLANNED</text>
+</g>
+</svg>
