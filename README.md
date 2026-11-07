@@ -38,6 +38,15 @@ I like questions with a real answer in the data. In my [Loan Default Risk Analys
 
 <br>
 
+## 💻 Right Now
+
+<img src="assets/terminal.svg" alt="Terminal card" width="100%" />
+
+## 🏙️ Contribution Skyline
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
+
+
 ## 🗺️ Roadmap
 
 <img src="assets/roadmap.svg" alt="Learning roadmap" width="100%" />
