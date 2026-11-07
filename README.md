@@ -64,15 +64,6 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan-2006-opensource&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
----
-
-## 💻 Coding Profiles
-
-<p align="center">
- <a href="https://leetcode.com/u/NAYAN722" target="_blank">
-   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
- </a>
-</p>
 
 ---
 
